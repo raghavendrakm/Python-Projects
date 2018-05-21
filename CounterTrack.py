@@ -1,3 +1,3 @@
-_age  = input("Kindly enter your age: ")
-_newage = int(_age) + 20
-print(_newage)
+_age_  = input("Kindly enter your age: ")
+_newage_ = int(_age_) + 20
+print(_newage_)
