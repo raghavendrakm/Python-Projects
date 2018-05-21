@@ -1,3 +1,3 @@
-print("This is the beginning of the new program")
-
-
+_age  = input("Kindly enter your age: ")
+_newage = int(_age) + 20
+print(_newage)
